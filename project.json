@@ -1,19 +1,19 @@
 {
   "version": "1.0.0-*",
-  "description": "ustack Console Application",
+  "description": "coreclr_ustack Console Application",
   "authors": [ "" ],
   "tags": [ "" ],
   "projectUrl": "",
   "licenseUrl": "",
   "tooling": {
-    "defaultNamespace": "ustack"
+    "defaultNamespace": "coreclr_ustack"
   },
 
   "dependencies": {
   },
 
   "commands": {
-    "ustack": "ustack"
+    "coreclr_ustack": "coreclr_ustack"
   },
 
   "frameworks": {

@@ -1,6 +1,6 @@
 using System;
 
-namespace ustack
+namespace coreclr_ustack
 {
     public class Program
     {

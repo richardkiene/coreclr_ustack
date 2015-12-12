@@ -7,7 +7,7 @@ namespace coreclr_ustack
         public static void Main(string[] args)
         {
             for (;;)
-                ;
+                ; //System.Console.WriteLine(System.Environment.StackTrace);
             return;
         }
     }
